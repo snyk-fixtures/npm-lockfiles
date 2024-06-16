@@ -180,7 +180,7 @@
     "babel-cli": "^6.26.0",
     "babel-code-frame": "6.26.0",
     "babel-core": "^6.26.3",
-    "babel-eslint": "^9.0.0",
+    "babel-eslint": "^10.1.0",
     "babel-generator": "^6.26.1",
     "babel-helper-bindify-decorators": "^6.24.1",
     "babel-helper-builder-binary-assignment-operator-visitor": "^6.24.1",
