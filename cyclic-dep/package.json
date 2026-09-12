@@ -10,7 +10,7 @@
     "@thebespokepixel/meta": "^0.2.2",
     "@thebespokepixel/string": "^0.5.1",
     "color-convert": "^1.9.2",
-    "common-tags": "^1.8.0",
+    "common-tags": "^1.8.2",
     "deep-assign": "^2.0.0",
     "escape-string-regexp": "^1.0.5",
     "lodash": "^4.17.10",
